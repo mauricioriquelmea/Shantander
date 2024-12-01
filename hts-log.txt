@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Nov 2024 13:19:10 at https://banco.santander.cl/personas +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://banco.santander.cl/personas -O1 "C:\My Web Sites\Shantander" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:19:31	Warning: 	Moved Temporarily for https://banco.santander.cl/
+13:19:31	Warning: 	File has moved from https://banco.santander.cl/ to https://banco.santander.cl/personas
+13:19:31	Warning: 	Moved Temporarily for https://banco.santander.cl/version/
+13:19:31	Warning: 	File has moved from https://banco.santander.cl/version/ to https://banco.santander.cl/fueradelinea/
+13:19:33	Warning: 	Link https://banco.santander.cl/informacion/navegador-no-compatible not scanned (follow robots meta tag)
+13:20:02	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/seguros/vida/version/
+13:20:02	Warning: 	File has moved from https://banco.santander.cl/personas/seguros/vida/version/ to https://banco.santander.cl/personas
+13:20:05	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/seguros/automotriz/version/
+13:20:05	Warning: 	File has moved from https://banco.santander.cl/personas/seguros/automotriz/version/ to https://banco.santander.cl/personas
+13:20:05	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/version/
+13:20:05	Warning: 	File has moved from https://banco.santander.cl/personas/version/ to https://banco.santander.cl/personas
+13:20:06	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/planes/version/
+13:20:06	Warning: 	File has moved from https://banco.santander.cl/personas/planes/version/ to https://banco.santander.cl/personas
+13:20:08	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/tarjetas/debito/detalles/version/
+13:20:08	Warning: 	File has moved from https://banco.santander.cl/personas/tarjetas/debito/detalles/version/ to https://banco.santander.cl/fueradelinea/
+13:20:11	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/productos-santander/version/
+13:20:11	Warning: 	File has moved from https://banco.santander.cl/personas/productos-santander/version/ to https://banco.santander.cl/personas
+13:20:12	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/inversiones/detalles/version/
+13:20:12	Warning: 	File has moved from https://banco.santander.cl/personas/inversiones/detalles/version/ to https://banco.santander.cl/fueradelinea/
+13:20:12	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/seguros/automotriz/detalles/version/
+13:20:12	Warning: 	File has moved from https://banco.santander.cl/personas/seguros/automotriz/detalles/version/ to https://banco.santander.cl/fueradelinea/
+13:20:14	Warning: 	Moved Temporarily for https://banco.santander.cl/sucursales-santander/version/
+13:20:14	Warning: 	File has moved from https://banco.santander.cl/sucursales-santander/version/ to https://banco.santander.cl/sucursales-santander
+13:20:15	Warning: 	Moved Temporarily for https://banco.santander.cl/personas/tarjetas/version/
+13:20:15	Warning: 	File has moved from https://banco.santander.cl/personas/tarjetas/version/ to https://banco.santander.cl/personas
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 5 seconds : 165 links scanned, 152 files written (16105295 bytes overall) [12399411 bytes received at 190760 bytes/sec], 5473483 bytes transferred using HTTP compression in 79 files, ratio 23%, 15.6 requests per connection
+(No errors, 25 warnings, 0 messages)
